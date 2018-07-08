@@ -1,4 +1,4 @@
 /**
-This is package name file
+This is package name file.
  */
 package com.example;
